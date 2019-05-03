@@ -1,4 +1,2 @@
 # hrPlatform
-Spring boot project
-Database: MySQL 
-Before run change credentials in "application.properties"
+Spring boot project, Database: MySQL, Before run change credentials in "application.properties"
